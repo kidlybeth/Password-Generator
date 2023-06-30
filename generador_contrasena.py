@@ -17,6 +17,7 @@ def generar_contrasena():
 
         contrasena = "".join(contrasena)
         return (contrasena)
+#prueba de comentario
 
 def run():
     contrasena = generar_contrasena()
